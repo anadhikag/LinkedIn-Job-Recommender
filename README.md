@@ -19,11 +19,11 @@ Results are ranked using a weighted hybrid similarity score.
 ## Architecture
 
 React Frontend
-↓
+|
 Flask API (/recommend)
-↓
+|
 Hybrid Recommender (TF-IDF + SBERT)
-↓
+|
 Precomputed Artifacts
 
 
